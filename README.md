@@ -4,6 +4,22 @@ This repository explores improvements to patch-based diffusion models, specifica
 
 ---
 
+## 🎥 Demo Video
+
+Watch the project demo here:
+
+[![Watch Demo]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/odP_rQNCaPQ))
+
+---
+
+## 📄 Project Report
+
+Read the detailed report here:
+
+👉 [Project Report]([https://your-report-link.com](https://drive.google.com/file/d/11aF39m1a-0tW82Zpb-10ULSA8ZXR4wx6/view?usp=sharing))
+
+---
+
 ## 🚀 The Novelty: Gated Weight Blender
 
 Standard patch-based models often struggle with **"seam" artifacts** where patches meet. Our implementation introduces a **learnable gating mechanism**:
