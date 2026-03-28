@@ -6,17 +6,13 @@ This repository explores improvements to patch-based diffusion models, specifica
 
 ## 🎥 Demo Video
 
-Watch the project demo here:
-
-[![Watch Demo]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/odP_rQNCaPQ))
+Watch the project demo here: https://youtu.be/odP_rQNCaPQ
 
 ---
 
 ## 📄 Project Report
 
-Read the detailed report here:
-
-👉 [Project Report]([https://your-report-link.com](https://drive.google.com/file/d/11aF39m1a-0tW82Zpb-10ULSA8ZXR4wx6/view?usp=sharing))
+Read the detailed report here: https://drive.google.com/file/d/11aF39m1a-0tW82Zpb-10ULSA8ZXR4wx6/view?usp=sharing
 
 ---
 
